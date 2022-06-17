@@ -2,7 +2,7 @@
 
 ## Task 0. Image preprocessing
 'Class0' is for Nail, 'class1' is for 'Primary capillary', 'class2' is for 'Secondary capillary'
-![image](https://user-images.githubusercontent.com/70199936/174386490-e52c016e-f6f1-416c-b20a-fa829e596f8c.png)
+![image](https://user-images.githubusercontent.com/70199936/174386696-8a01fbc6-3ea4-49c2-9dc9-ceb1300250ec.png)
 
 
 ## Task 1. Semantic segmentation with toy data set (draws of a capillary and cells)
