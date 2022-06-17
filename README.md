@@ -1,4 +1,4 @@
-# Tasks4Segmentation
+# Tasks for Segmentation
 
 ## Task 0. Image preprocessing
 Links:
