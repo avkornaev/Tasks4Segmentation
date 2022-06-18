@@ -7,7 +7,7 @@
 
 ## Task 1. Semantic segmentation with toy data set (draws of a capillary and cells)
 UNet from scratch by Aladdin Person https://www.youtube.com/watch?v=IHq1t7NxS8k&t=5s
-About metrics in segmentatioin https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2
+About metrics in segmentatioin (accuracy, IoU, Dice) https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2
 
 
 Links:
